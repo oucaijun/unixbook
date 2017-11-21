@@ -1,0 +1,7 @@
+Advanced Programming in the UNIX® Environment http://www.apuebook.com
+
+
+Advanced Programming in the UNIX Environment, Addison-Wesley, 1992, ISBN 0-201-56317-7.
+	http://www.kohala.com/start/apue.html
+
+
